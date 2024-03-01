@@ -1,0 +1,25 @@
+1. What is a hard disk?
+ A hard disk is like the long-term memory of your computer, where you can store all your
+ files and data to use them when you need them. It's an essential part of your PC. Think
+ of it as the computer's memory that stores everything you tell it to, but unlike the main
+ memory (RAM) that forgets everything when you turn off the computer, the hard disk
+ keeps the information even when the computer is turned off.
+
+ 2. How does a hard disk works?
+ A hard disk works by using magnetic changes on spinning disks to store and retrieve
+ data. The read/write head reads and writes data, and a file system organizes it, enabling
+ your computer to access the files and programs you need.
+
+ 3. What is a track?
+ A "track" refers to a lane or path used to store information on a hard disk. The operating
+ system uses these tracks as a means to access the data stored on the device.
+
+ 4. What is a sector?
+ Each track is divided into sectors, which are the smallest storage units on a disk.
+ Sectors are where the actual data, such as files and programs, is stored
+
+ 5. How the information is stored in a hard disk?
+ A hard disk stores information by using changes in magnetic orientation on spinning
+ disks. These changes represent binary data, and the information is organized into tracks
+ and sectors. A file system helps manage and locate the stored data, and a read/write
+ head is responsible for reading and writing data on the disk.
