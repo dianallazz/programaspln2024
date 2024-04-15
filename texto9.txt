@@ -1,0 +1,37 @@
+1. Autenticación de múltiples factores: Se refiere a un método de seguridad que requiere que el usuario proporcione dos o más formas diferentes de verificación para acceder a un sistema o servicio. La autenticación de múltiples factores mejora la seguridad al agregar capas adicionales de protección más allá de solo una contraseña.
+
+2. Cifrado de datos en reposo y en tránsito: El cifrado de datos en reposo se refiere a proteger la información almacenada, como archivos en un disco duro o en una base de datos, mediante la transformación de los datos en un formato ilegible para cualquier persona que no tenga la clave de descifrado. El cifrado de datos en tránsito se utiliza para proteger la información mientras se transfiere de un lugar a otro, como cuando se envían datos a través de Internet. En ambos casos, el cifrado garantiza que incluso si alguien intercepta los datos, no podrán leerlos sin la clave adecuada.
+
+3. Gestión adecuada de accesos: Se refiere a la práctica de controlar quién tiene acceso a qué recursos en un sistema o red. Esto implica la creación de políticas de acceso, la asignación de roles y permisos, el monitoreo de actividades de acceso y la implementación de medidas de seguridad como la autenticación de usuarios y la autorización basada en roles.
+
+4. Arquitectura basada en microservicios: Es un enfoque para diseñar aplicaciones como un conjunto de servicios independientes y pequeños, cada uno ejecutándose en su propio proceso y comunicándose entre sí a través de protocolos ligeros. 
+
+5. Herramientas de automatización para desplegar, gestionar y escalar tus raecursos en la nube de forma eficiente: Estas herramientas incluyen plataformas de gestión de la nube que permiten automatizar tareas como el aprovisionamiento de recursos, la configuración de redes, la implementación de aplicaciones y el monitoreo del rendimiento. Ejemplos de herramientas populares incluyen AWS CloudFormation, Azure Resource Manager y Google Cloud Deployment Manager.
+
+6. Cumplimiento normativo en lo que respecta a la privacidad y seguridad de los datos almacenados en la nube: Esto se refiere al conjunto de regulaciones, estándares y prácticas que las organizaciones deben seguir para garantizar que los datos almacenados en la nube estén protegidos y se manejen de acuerdo con las leyes y regulaciones aplicables, como GDPR en Europa o HIPAA en Estados Unidos.
+
+7. Técnicas de cifrado en la nube: Aparte del cifrado de datos en reposo y en tránsito, está el cifrado de datos en la aplicación (donde la lógica de cifrado se incorpora directamente en la aplicación), el cifrado de datos en la base de datos (donde los datos se cifran en el nivel de la base de datos) y el cifrado homomórfico (que permite realizar operaciones en datos cifrados sin descifrarlos primero).
+
+8. Autenticación en la nube: Se refiere a los métodos y protocolos utilizados para verificar la identidad de usuarios y dispositivos que acceden a servicios en la nube. 
+9. Gestión de accesos y monitorización de seguridad en entornos de nube: Implica la implementación de controles de acceso, auditorías de seguridad, monitoreo de eventos y detección de amenazas en sistemas y datos alojados en la nube. Esto es fundamental para mantener la integridad, confidencialidad y disponibilidad de los recursos en la nube y protegerlos contra ataques y vulnerabilidades.
+
+10. Diferentes arquitecturas de aplicaciones diseñadas específicamente para entornos de nube:
+- Arquitecturas basadas en microservicios: Las arquitecturas basadas en microservicios son un enfoque moderno para el diseño de aplicaciones, especialmente útil en entornos de nube. 
+Escalabilidad y Distribución: Las arquitecturas de microservicios proporcionan un sistema altamente escalable y distribuido. Se implementan mediante tecnologías de contenedores como Docker y Kubernetes.
+Desarrollo y Entrega Rápida: Este enfoque permite implementar y escalar cada servicio individual de forma independiente, así como la entrega rápida y frecuente de aplicaciones grandes y complejas.
+Independencia de Servicios: Los microservicios se componen de servicios de componentes individuales y poco vinculados que se pueden desarrollar, implementar, operar, cambiar y volver a implementar sin afectar al funcionamiento de otros servicios o a la integridad de una aplicación.
+Facilidad de Mantenimiento y Pruebas: Los microservicios permiten a los equipos experimentar con nuevas funciones y revertirlas si no funcionan. Esto facilita la actualización del código y acelera el tiempo de salida al mercado de nuevas funciones.
+Equipos Pequeños e Independientes: Los equipos pequeños e independientes suelen crear un servicio dentro de microservicios, lo que los anima a adoptar prácticas de metodología ágil y de DevOps.
+Organización en torno a Capacidades Empresariales: Un enfoque de microservicios permite organizar los servicios en torno a las capacidades empresariales.
+Infraestructura Automatizada: Los equipos que crean y mantienen microservicios suelen utilizar prácticas de automatización de infraestructuras, como la integración continua (CI), la entrega continua (CD) y la implementación continua (también CD).
+Contenedores: Utilizados para empaquetar aplicaciones y sus dependencias en entornos aislados, permitiendo una implementación consistente y rápida.
+Serverless: Donde la infraestructura subyacente es gestionada por el proveedor de la nube, permitiendo a los desarrolladores enfocarse en escribir código sin preocuparse por la administración de servidores.
+
+11. Servicios como autoescalado, balanceo de carga y almacenamiento escalable en la nube:
+Autoescalado: Estos son servicios ofrecidos por proveedores de nube que permiten ajustar automáticamente la capacidad de recursos según la demanda.
+Balanceo de carga: Utilizada para distribuir la carga de trabajo entre servidores para mejorar la disponibilidad y el rendimiento.
+Almacenamiento escalable: Para lmacenar grandes cantidades de datos de forma escalable y eficiente (almacenamiento escalable). Estos servicios son fundamentales para construir aplicaciones resilientes y escalables en entornos de nube.
+
+
+
+
